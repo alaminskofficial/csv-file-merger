@@ -1,0 +1,1 @@
+Compare multiple CSV files based on a common column, then combine all the data into a single CSV file, categorizing the results as either 'success' or 'error'.
